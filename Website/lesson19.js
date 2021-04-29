@@ -1,5 +1,5 @@
 var setup = function () {
-  createCanvas(1000, 800);
+  createCanvas(1500, 1000);
   //   noLoop();
 };
 

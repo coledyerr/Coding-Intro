@@ -1,21 +1,21 @@
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Times New Roman", Times, serif;
 }
 div.pink {
-  background-color: rgb(226, 30, 105);
-  background: linear-gradient(42deg, #eb78db 0%, rgb(89, 156, 201) 100%);
-  padding: 100px 261px 340px 105px;
-  color: rgb(75, 68, 68);
+  background-color: rgb(255, 255, 255);
+  background: linear-gradient(42deg, #eb78db 30%, rgb(89, 156, 201) 70%);
+  padding: 300px 261px 420px 105px;
+  color: rgb(211, 53, 53);
 }
 
-div#puter {
+/* div#puter {
   position: absolute;
   top: 68px;
   right: 67px;
-  background-color: rgb(1, 1, 1);
-  width: 405px;
-  height: 605px;
+  background-color: rgb(0, 0, 0);
+  width: 300px;
+  height: 300px;
 }
 div#puter2 {
   position: absolute;
@@ -23,12 +23,12 @@ div#puter2 {
   right: 70px;
   background-color: rgb(125, 153, 179);
   background: linear-gradient(42deg, #eb78db -10%, rgb(89, 156, 201) 100%);
-  width: 400px;
-  height: 600px;
-}
+  width: 295px;
+  height: 295px;
+} */
 
 div.Chicken {
-  color: rgb(236, 212, 212);
+  color: rgb(255, 255, 255);
 }
 
 p {
