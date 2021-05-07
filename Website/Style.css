@@ -1,7 +1,7 @@
 div.pink {
   background-color: rgb(0, 0, 0);
   background: linear-gradient(42deg, #eb78db 30%, rgb(89, 156, 201) 70%);
-  padding: 100px 200px 200px 130px;
+  padding: 100px 200px 200px 100px;
   color: rgb(211, 53, 53);
 }
 
